@@ -1,0 +1,5 @@
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Practica 18'10\Practica en clase\LibreriaPracticaPolimorfismo\LibreriaPracticaPolimorfismo\bin\Debug\LibreriaPracticaPolimorfismo.dll
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Practica 18'10\Practica en clase\LibreriaPracticaPolimorfismo\LibreriaPracticaPolimorfismo\bin\Debug\LibreriaPracticaPolimorfismo.pdb
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Practica 18'10\Practica en clase\LibreriaPracticaPolimorfismo\LibreriaPracticaPolimorfismo\obj\Debug\LibreriaPracticaPolimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Practica 18'10\Practica en clase\LibreriaPracticaPolimorfismo\LibreriaPracticaPolimorfismo\obj\Debug\LibreriaPracticaPolimorfismo.dll
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Practica 18'10\Practica en clase\LibreriaPracticaPolimorfismo\LibreriaPracticaPolimorfismo\obj\Debug\LibreriaPracticaPolimorfismo.pdb

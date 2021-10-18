@@ -1,0 +1,13 @@
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Practica 18'10\Practica en clase\LibreriaPracticaPolimorfismo\WindowsDemoAjedrez\bin\Debug\WindowsDemoAjedrez.exe.config
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Practica 18'10\Practica en clase\LibreriaPracticaPolimorfismo\WindowsDemoAjedrez\bin\Debug\WindowsDemoAjedrez.exe
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Practica 18'10\Practica en clase\LibreriaPracticaPolimorfismo\WindowsDemoAjedrez\bin\Debug\WindowsDemoAjedrez.pdb
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Practica 18'10\Practica en clase\LibreriaPracticaPolimorfismo\WindowsDemoAjedrez\bin\Debug\LibreriaPracticaPolimorfismo.dll
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Practica 18'10\Practica en clase\LibreriaPracticaPolimorfismo\WindowsDemoAjedrez\bin\Debug\LibreriaPracticaPolimorfismo.pdb
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Practica 18'10\Practica en clase\LibreriaPracticaPolimorfismo\WindowsDemoAjedrez\obj\Debug\WindowsDemoAjedrez.csproj.AssemblyReference.cache
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Practica 18'10\Practica en clase\LibreriaPracticaPolimorfismo\WindowsDemoAjedrez\obj\Debug\WindowsDemoAjedrez.Form1.resources
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Practica 18'10\Practica en clase\LibreriaPracticaPolimorfismo\WindowsDemoAjedrez\obj\Debug\WindowsDemoAjedrez.Properties.Resources.resources
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Practica 18'10\Practica en clase\LibreriaPracticaPolimorfismo\WindowsDemoAjedrez\obj\Debug\WindowsDemoAjedrez.csproj.GenerateResource.cache
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Practica 18'10\Practica en clase\LibreriaPracticaPolimorfismo\WindowsDemoAjedrez\obj\Debug\WindowsDemoAjedrez.csproj.CoreCompileInputs.cache
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Practica 18'10\Practica en clase\LibreriaPracticaPolimorfismo\WindowsDemoAjedrez\obj\Debug\WindowsDemoAjedrez.exe
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Practica 18'10\Practica en clase\LibreriaPracticaPolimorfismo\WindowsDemoAjedrez\obj\Debug\WindowsDemoAjedrez.pdb
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Practica 18'10\Practica en clase\LibreriaPracticaPolimorfismo\WindowsDemoAjedrez\obj\Debug\WindowsDemoAjedrez.csproj.CopyComplete

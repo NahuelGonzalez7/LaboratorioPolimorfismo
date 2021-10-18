@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="LibreriaPracticaPolimorfismo.Ajedrez.Caballo">
+    <Position X="2" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Ajedrez\Caballo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibreriaPracticaPolimorfismo.Ajedrez.Peon">
+    <Position X="4.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Ajedrez\Peon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibreriaPracticaPolimorfismo.Ajedrez.PiezaAjedrez">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Ajedrez\PiezaAjedrez.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibreriaPracticaPolimorfismo.Ajedrez.Torre">
+    <Position X="6.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Ajedrez\Torre.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
